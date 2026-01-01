@@ -2,15 +2,15 @@
   {
     "device_id": "b7fcd04f7c59af3d",
     "key": "opjat",
-    "expirydate": "31-01-2026",
-    "user": "omprakash",
+    "expirydate": "01-01-2027",
+    "user": "opjat",
     "Allowoffline": false
   },
   {
-    "device_id": "b7fcd04f7c59af3d",
+    "device_id": "b7fcd04f7c59af3dff",
     "key": "opjat",
-    "expirydate": "01-01-2027",
-    "user": "opjat",
+    "expirydate": "31-01-2026",
+    "user": "omprakash",
     "Allowoffline": false
   }
 ]
