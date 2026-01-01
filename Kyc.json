@@ -1,17 +1,16 @@
 [
-{
-        "device_id": "b7fcd04f7c59af3d",
-        "key": "opjat",
-        "expirydate": "01-01-2027",
-        "Allowoffline": false,
-        "user": "opjat"
-    }, 
-        
-    {
-        "device_id": "b7fcd04f7c59af3d",
-        "key": "opjat",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false,
-        "user": "omprakash"
-    }
+  {
+    "device_id": "b7fcd04f7c59af3d",
+    "key": "opjat",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "user": "omprakash"
+  },
+  {
+    "device_id": "b7fcd04f7c59af3d",
+    "key": "opjat",
+    "expirydate": "01-01-2027",
+    "user": "opjat",
+    "Allowoffline": false
+  }
 ]
